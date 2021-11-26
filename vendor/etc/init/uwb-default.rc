@@ -1,0 +1,5 @@
+service vendor.uwb-default /vendor/bin/hw/hardware.qorvo.uwb-service
+    class hal
+    user uwb
+    group uwb
+    capabilities NET_ADMIN

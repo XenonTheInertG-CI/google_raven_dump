@@ -1,0 +1,14 @@
+# raven-user 12 SD1A.210817.015.A4 7697517 release-keys
+- manufacturer: 
+- platform: gs101
+- codename: raven
+- flavor: raven-user
+- release: 12
+- id: SD1A.210817.015.A4
+- incremental: 7697517
+- tags: release-keys
+- fingerprint: google/raven/raven:12/SD1A.210817.015.A4/7697517:user/release-keys
+- is_ab: true
+- brand: google
+- branch: raven-user-12-SD1A.210817.015.A4-7697517-release-keys
+- repo: google_raven_dump
